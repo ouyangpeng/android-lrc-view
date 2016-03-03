@@ -1,3 +1,6 @@
+
+>一个关于播放音乐时候同时显示歌词的Demo,歌词的字体大小可以通过手指来触摸来进行缩放
+
 LrcView can parse and display standard lrc file.Use single touch to seek progress and multi touch to scale font size.
 
 Copyright 2012 (c) Xiaoyuan Lau douzifly@gmail.com
